@@ -20,4 +20,9 @@ Why did the two functions stop calling each other? Because they had constant arg
 
 ---
 
+How do functions break up? They stop calling each other.
+
+---
+
 How do you know if a developer uses Vim? Don't worry, he'll tell you.
+
