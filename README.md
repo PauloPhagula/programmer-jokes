@@ -26,3 +26,8 @@ How do functions break up? They stop calling each other.
 
 How do you know if a developer uses Vim? Don't worry, he'll tell you.
 
+---
+
+Q: Why do Astronauts use Linux?
+
+A: Because they can't open Windows in Space.
