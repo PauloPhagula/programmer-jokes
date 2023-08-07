@@ -31,3 +31,9 @@ How do you know if a developer uses Vim? Don't worry, he'll tell you.
 Q: Why do Astronauts use Linux?
 
 A: Because they can't open Windows in Space.
+
+---
+
+You have to get really good at algorithms and data structures to pass your technical interviews and the bar is raising every day.
+
+So much so, that by the time you're actually read to interview you may as well apply to do algorithms research instead of software engineering.
